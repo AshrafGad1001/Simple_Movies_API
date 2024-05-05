@@ -11,8 +11,6 @@ namespace MoviesAPI.Controllers
         {
             _context = context;
         }
-
-
         [HttpGet]
         public async Task<IActionResult> GetAllAsync()
         {
@@ -32,6 +30,5 @@ namespace MoviesAPI.Controllers
 
             return Ok(genre);
         }
-
     }
 }
