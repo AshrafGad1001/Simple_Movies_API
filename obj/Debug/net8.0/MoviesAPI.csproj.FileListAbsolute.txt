@@ -271,3 +271,4 @@ F:\Courses\Training WebDev (BackEnd)\Simple API\MoviesAPI\obj\Debug\net8.0\refin
 F:\Courses\Training WebDev (BackEnd)\Simple API\MoviesAPI\obj\Debug\net8.0\MoviesAPI.pdb
 F:\Courses\Training WebDev (BackEnd)\Simple API\MoviesAPI\obj\Debug\net8.0\MoviesAPI.genruntimeconfig.cache
 F:\Courses\Training WebDev (BackEnd)\Simple API\MoviesAPI\obj\Debug\net8.0\ref\MoviesAPI.dll
+F:\Courses\Training WebDev (BackEnd)\Simple API\MoviesAPI\obj\Debug\net8.0\MoviesAPI.sourcelink.json

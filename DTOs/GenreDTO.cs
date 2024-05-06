@@ -1,6 +1,6 @@
 ﻿namespace MoviesAPI.DTOs
 {
-    public class CreateGenreDTO
+    public class GenreDTO
     {
         [MaxLength(100)]
         public string Name { get; set;} 
